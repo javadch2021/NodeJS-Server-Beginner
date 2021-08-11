@@ -1,4 +1,5 @@
-Hello There, For running this project you have to install express.js by : 'npm install --save express'
+Hello There
+For running this project you have to install express.js by : 'npm install --save express'
 You have to install that library in the folder that the nodejs.js placed.
 
 Then you can run it by : 'node nodejs.js'
